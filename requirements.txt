@@ -2,7 +2,7 @@ alabaster==0.7.6
 apache-log-parser==1.6.1
 appnope==0.1.0
 Babel==2.0
-basemap==1.0.7
+#basemap==1.0.7
 beautifulsoup4==4.4.0
 brewer2mpl==1.4
 certifi==2015.4.28
@@ -41,7 +41,7 @@ pexpect==3.3
 pickleshare==0.5
 prettytable==0.7.2
 psutil==3.1.1
-psycopg2==2.6.1
+#psycopg2==2.6.1
 ptyprocess==0.5
 Pygments==2.0.2
 pyparsing==2.0.3
