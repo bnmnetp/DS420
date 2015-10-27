@@ -22,3 +22,5 @@ Decision Trees
 
 
 K-Nearest Neighbors
+* http://blog.yhathq.com/posts/classification-using-knn-and-python.html
+* 
