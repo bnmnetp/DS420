@@ -24,3 +24,11 @@ Decision Trees
 K-Nearest Neighbors
 * http://blog.yhathq.com/posts/classification-using-knn-and-python.html
 * 
+
+
+
+Interesting Links
+
+* [The story of None, True and False](http://flip.it/A5Zx7)
+* [Google Open Sources TensorFlow](http://flip.it/Vyt7U)
+* 
