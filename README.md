@@ -11,6 +11,26 @@
 
 ## Schedule for Spring 2017
 
+#### Week of Feb 27
+* Wednesday
+  * Perceptron Homework due
+
+* Friday
+  * Concepts from Chapter 4
+  * Lab on Perceptron learning rates and improvements -- Due next Wednesday
+
+**Assignment for Monday**
+
+* Find a dataset that is suitable for clustering.  Make up a Hypothesis about the dataset that you would like to test.  find one where the data already has a categorical variable so you can do an experiment to see how well a couple different algorithms work for that data.  You will work on performing this experiment and it will be due Monday March 13.
+
+#### Week of Feb 20
+* Perceptrons and binary clustering
+
+#### Week of Feb 13
+* working through chapter 2
+
+#### Week of Feb 6
+* working through chapter 2
 
 #### Week of Feb 1
 
