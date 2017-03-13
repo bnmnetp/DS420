@@ -11,6 +11,25 @@
 
 ## Schedule for Spring 2017
 
+### Week of March 13
+
+#### Face Recognition Project
+
+* [Image Processing Tutorial](http://www.python-course.eu/python_image_processing.php)
+* [Image Convolution](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.dk8sxq6pj)
+* [Face Recognition](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.mxargj89r)
+
+
+### Week of March 6
+
+* Monday
+  * Logistic Regression -- listen to Data Skeptic podcast mini
+  * https://dataskeptic.com/blog/episodes/2017/logistic-regression-on-audio-data
+
+* Wednesday -- No Class
+* Friday -- No Class
+
+
 #### Week of Feb 27
 * Wednesday
   * Perceptron Homework due
