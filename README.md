@@ -25,6 +25,14 @@
     4. Calculate the “column hash”: same as above, but for each column, move top to bottom
     5. Concatenate the two 64-bit values together to get the final 128-bit hash
 
+    Using the cat as a sample image:
+
+    ```
+    from skimage import data
+    cat = data.chelsea()
+
+    I get the following hash value:  34915958146687236057193665901289989262173766774601642120423352010357722744229801684300512507318457538866989474872132612585051623814050377534543743034965266053329718
+    ```
 
 ### Week of March 13
 
