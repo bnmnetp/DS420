@@ -11,6 +11,11 @@
 
 ## Schedule for Spring 2017
 
+### April 21
+
+* http://www.face-rec.org/databases/
+* https://github.com/ageitgey/face_recognition#face-recognition
+
 ### Week of April 10
 
 * Grayscale Conversion
