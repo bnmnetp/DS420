@@ -4,7 +4,7 @@
 > Brad Miller <br />
 > Olin 321 <br />
 > bmiller@luther.edu <br />
-> Office Hours: 2:00 -- 3:00 Daily.  By Appointment, [Use my Calendar](https://calendar.google.com/calendar/embed?mode=WEEK&src=millbr02%40luther.edu&ctz=America/Chicago)  Do not email me to ask when I can meet, use the calendar. <br />
+> Office Hours: 9:30 -- 10:30 Tues, Wed, Thurs.  Other times By Appointment, [Use my Calendar](https://calendar.google.com/calendar/embed?mode=WEEK&src=millbr02%40luther.edu&ctz=America/Chicago)  Do not email me to ask when I can meet, use the calendar. <br />
 > Slack Channel:  I'll use this to post hints and screen captures of notes.  Using your norsekey [signup for slack](https://luthercs.slack.com/signup)
 
 * [Jupyter Notebook Server](https://knuth.luther.edu:8443) on knuth
