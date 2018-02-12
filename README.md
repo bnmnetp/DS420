@@ -11,6 +11,13 @@
 
 ## Schedule for Spring 2018
 
+### Week of Feb 13
+
+* For Tuesday you should have asked and answered two questions about the mushroom data set.  Be prepeared to share those questions and answers in class
+* Tuesday: - The Curse of dimensionality
+
+
+* Thursday: - Principle Components Analysis
 
 ### Week of Feb 8
 
