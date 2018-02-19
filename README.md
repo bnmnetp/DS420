@@ -11,6 +11,22 @@
 
 ## Schedule for Spring 2018
 
+### Week of Feb 20
+
+* Tuesday
+
+  - finish up the curse of dimensionality
+  - what is principle components analysis
+  - doing PCA on our mushroom data
+  - doing PCA with iris data
+
+* Thursday
+  
+  - Kmeans clustering
+  - Kmeans on our reduced PCA data
+  - scoring kmeans
+
+  
 ### Week of Feb 13
 
 * For Tuesday you should have asked and answered two questions about the mushroom data set.  Be prepeared to share those questions and answers in class
