@@ -11,6 +11,18 @@
 
 ## Schedule for Spring 2018
 
+### Week of Feb 27
+
+* Tuesday 
+
+  - Regression with the mushroom data.
+
+* Wednesday -- iriskm assignment due at 5:00
+
+
+* Thursday -- Guest speaker on Support Vector Machines
+
+
 ### Week of Feb 20
 
 * Tuesday
@@ -20,13 +32,15 @@
   - doing PCA on our mushroom data
   - doing PCA with iris data
 
+* Wednesday -- First Iris Assignment due at 5:00
+
 * Thursday
   
   - Kmeans clustering
   - Kmeans on our reduced PCA data
   - scoring kmeans
 
-  
+
 ### Week of Feb 13
 
 * For Tuesday you should have asked and answered two questions about the mushroom data set.  Be prepeared to share those questions and answers in class
