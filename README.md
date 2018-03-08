@@ -11,6 +11,31 @@
 
 ## Schedule for Spring 2018
 
+### Week of March 13
+
+* Look at the Gaussian Naive Bayes and Decision Tree classifiers and/or dive into the kaggle contest.
+
+* Tuesday
+
+  - Take a look at [This Kaggle Contest](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection?utm_medium=email&utm_source=intercom&utm_campaign=talkingdata+competition+2018)  Shall we give it a try?
+
+### Week of March 6
+
+* Tuesday 
+
+  - Logistic Regression
+  - Gradient Descent
+
+* Thursday
+
+  - Finish up Gradient Descent
+
+    - Run our linear regression algorithm on the mushroom data -- We'll need to tweak our class just a bit to adjust sizes based on the data we give it.
+    - Tweak our learning to adjust the learning rate as we iterate
+    - Convert our algorithm to learn using the logistic function *and be amazed*
+    - Make a version that can use the logistic regression algorithm to classify multiple classes
+
+
 ### Week of Feb 27
 
 * Tuesday 
