@@ -11,6 +11,23 @@
 
 ## Schedule for Spring 2018
 
+### Week of April 3
+
+* Tuesday  -- Compare notes on Kaggle contest
+
+  * Midterm Analysis Requirements
+    
+    * Select a dataset that requires classification -- I'll set up a shared google spreadsheet for you to publish your selected dataset.  I'd like to keep duplication to a minimum.
+    * Prepare a Jupyter notebook that demonstrates you have done exploratory data analysis on your selected data set.  Make sure you document at the top of the notebook what you are classifying.
+    * Clean and prepare your dataset, documenting any additional variables you have computed, rescaling, removal of variables, etc.
+    * Compare the results of the classification task using 3 different methods that we have discussed in class.  You should have a summary section where you do the comparison of - accuracy, confusion matrix, report, ROC curve and area under the ROC.  Make sure to explain any big differences between your different methods.
+  
+  * Due: By Thursday April 12.  We will use class time on the 12th and 17th for each of you to make a presentation of your work.
+
+
+
+
+* Thurs
 ### Week of March 13
 
 * Look at the Gaussian Naive Bayes and Decision Tree classifiers and/or dive into the kaggle contest.
