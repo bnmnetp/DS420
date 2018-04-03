@@ -13,7 +13,11 @@
 
 ### Week of April 3
 
-* Tuesday  -- Compare notes on Kaggle contest
+* Tuesday  -- 
+
+  * https://github.com/dask/dask-tutorial
+
+  * Team work on contest
 
   * Midterm Analysis Requirements
     
@@ -24,10 +28,10 @@
   
   * Due: By Thursday April 12.  We will use class time on the 12th and 17th for each of you to make a presentation of your work.
 
+* Thursday - short team presentations on contest
+  
+  * By Tuesday April 10 Can you reproduce your results on the full data set??
 
-
-
-* Thurs
 ### Week of March 13
 
 * Look at the Gaussian Naive Bayes and Decision Tree classifiers and/or dive into the kaggle contest.
