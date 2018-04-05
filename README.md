@@ -11,10 +11,12 @@
 
 ## Schedule for Spring 2018
 
-### Week of April 3
+### Week of April 3N
 
 * Tuesday  -- 
 
+  * [Shared Spreadsheet for Midterm Datasets](https://docs.google.com/spreadsheets/d/14UQbP5DUnkTGpVX4qDNpb1woel9G9qagY3q14phrmJM/edit?usp=sharing)
+  
   * https://github.com/dask/dask-tutorial
 
   * Team work on contest
