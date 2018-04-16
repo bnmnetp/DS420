@@ -11,7 +11,21 @@
 
 ## Schedule for Spring 2018
 
-### Week of April 3N
+### Week of April 17
+
+* Tuesday - In class presentations
+* Thursday - Perceptrons -- Neural Networks
+* Here are a couple of good resources for you to watch on your own:
+  
+  - [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)  - Even if you don't follow all of the calculus these are still quite good to help you get a feeling for backpropagation.
+  - [Step by Step backpropagation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/) Walks you through a back propagation example one step at a time.  Again there is calculus involved but it can still help you get a good feel for how the learning works.
+
+### Week of April 10
+
+* Tuesday - No Class
+* Thursday - Presentations of midterm projects
+
+### Week of April 3
 
 * Tuesday  -- 
 
