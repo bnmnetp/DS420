@@ -11,6 +11,14 @@
 
 ## Schedule for Spring 2018
 
+### Week of May 1
+
+* Hand written digit recognition with Keras and tensorflow
+* See [Good starting docs](https://machinelearningmastery.com/build-multi-layer-perceptron-neural-network-models-keras/)
+* Image processing with numpy
+* Convolutional Neural Networks
+
+
 ### Week of April 24
 
 * Tuesday Multi-Layer Perceptrons
