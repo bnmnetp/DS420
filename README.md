@@ -9,7 +9,30 @@
 
 * [Jupyter Notebook Server](https://knuth.luther.edu:8443) on knuth
 
+## Final Project
+
+
+Your final project will be some kind of applied machine learning system that you will demo during the final week of class.  Some examples or ideas to get you thinking include:
+
+* A face recognition system that would be capable of identifying your classmates.
+* An image recognition system that can decide whether a given image contains a particular object.
+* Build a skill for Alexa or Google Home
+* Create a simple chat bot
+* Build a neural net that can predict the next word in a sentence or next letter in a word.
+* I might also accept a project where you take on a contest data set from kaggle that would use a neural network.  
+
+You will find publications that can help you or even lead you through some version of many of these ideas and you are welcome to use and cite such an article.
+
+This project can be a team project of no more than 3 people.
+
+We are getting close to the end of the semester so you really need
+
+You will demo these projects on the last day of class.
+
 ## Schedule for Spring 2018
+### Week of May 8
+
+
 
 ### Week of May 1
 
